@@ -1,0 +1,24 @@
+.header-nav {
+  background-color: #0C121C;
+  /* Dark Navy Blue */
+  padding: 2rem;
+  border-bottom: 2px solid #FAD300;
+  /* Bright Yellow */
+  position: relative;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  /* Space between title and navigation */
+}
+
+.header-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #FAD300;
+  /* Bright Yellow */
+  margin: 0;
+}
